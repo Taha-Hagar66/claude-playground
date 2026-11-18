@@ -1,0 +1,17 @@
+# Generated output (lists personal file names, keep it off GitHub)
+desktop_report.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+
+# Secrets
+.env
+
+# OS clutter
+Thumbs.db
+desktop.ini
